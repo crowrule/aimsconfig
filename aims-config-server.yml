@@ -1,7 +1,7 @@
 aims:
   portal:
     biz1:
-      max-page: 3
+      max-page: 2
 customer:
   file:
     pattern: dat
