@@ -1,11 +1,11 @@
 aims:
   portal:
     biz1:
-	  max-page: 3
+      max-page: 3
 customer:
   file:
     pattern: *.dat
     duplicates: false
     numberOfRowsPerOnce: 1000
     parser:
-	  delimiter: ;
+      delimiter: ;
