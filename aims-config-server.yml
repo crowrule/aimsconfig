@@ -1,12 +1,12 @@
 aims:
   portal:
     biz1:
-      max-page: 3
+      max-page: 7
 customer:
   file:
-    pattern: "dat"
-    test: xyzo
+    pattern: "*.dat"
+    test: abc
     duplicates: false
     numberOfRowsPerOnce: 1500
     parser:
-      delimiter: ";"
+      delimiter: ","
