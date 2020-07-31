@@ -5,6 +5,7 @@ aims:
 customer:
   file:
     pattern: "dat"
+    test: abc
     duplicates: false
     numberOfRowsPerOnce: 1000
     parser:
